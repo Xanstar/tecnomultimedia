@@ -1,3 +1,5 @@
+// Link del video: https://www.youtube.com/watch?v=aT6Q-w9KQa0&ab_channel=xanstar
+// Alumno: Joaquin Trevisan 92714/5
 int cant = 20;
 color g,c,k;
 PImage arte;
