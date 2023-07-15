@@ -1,3 +1,4 @@
+// video de youtube:https://www.youtube.com/watch?v=H7AdasNfr1o&ab_channel=xanstar
 PImage[] imagenes =  new PImage[17]; 
 String[] historia = new String[15]; 
 
