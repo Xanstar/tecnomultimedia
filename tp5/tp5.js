@@ -1,3 +1,5 @@
+//Trevisan Joaquin video:https://youtu.be/4wrLqTX2zU4
+
 let j;
 
 function setup(){
@@ -14,4 +16,3 @@ function mousePressed(){
 function keyPressed(){
   j.teclado();
 }
-//Trevisan Joaquin video:https://youtu.be/4wrLqTX2zU4
